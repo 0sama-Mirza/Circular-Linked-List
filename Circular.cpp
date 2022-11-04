@@ -59,7 +59,7 @@ class list{
             }
             cout<<current->data<<"]";
         }
-        //The following functions a only used for calculating the spaces required
+        //The following functions are only used for calculating the spaces required
         //to print out ^ character to the selected number.
         int Length_Of_Number(int num){//This calculates the length of a number
             int count=0;
